@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "demo-typescript-browserify",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browserify": "^4.1.8",
+    "exorcist": "^0.1.6",
+    "grunt": "^0.4.5",
+    "grunt-ts": "^1.11.2"
+  }
+}
